@@ -1,0 +1,9 @@
+{
+  "name": "AgriConnect",
+  "description": "A direct farmer-to-buyer marketplace featuring , no middle man AI-powered crop analysis, real-time negotiation, and market insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
